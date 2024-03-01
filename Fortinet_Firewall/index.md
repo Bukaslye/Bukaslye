@@ -13,4 +13,5 @@
 ## Power on the machine, it will install the fortigate virtual machine, give it time to finish the necessary process, it will format the disk, shutdown and the reboot back up. Upon completion of the startup process, login with the default credetials, username is admin and password is blank. Note that by default when you factory reset or use a newly out of the box device this is always the default passowrd. As soon as this is done you'd be required to change the password to your preferred password credentials immediately, once done you'd be able to access the device.
 ![Power on the virtual machine](https://github.com/Bukaslye/Bukaslye/assets/156098907/84b87ef4-64ab-4ca1-b899-bd2dba26032f)
 ![change password ](https://github.com/Bukaslye/Bukaslye/assets/156098907/1ddd91d6-4656-4e9a-9f29-5b86bfc0181e)
-## Turn off the virtual machine after changing to your preferred credential, click on edit virtual machine settings
+## Turn off the virtual machine after changing to your preferred credential, click on edit virtual machine settings, enable "connect at power on" for both the bridge adapter and the LAN adapter that was created, leave the other adapters as they are since they aren't configured, click OK to apply. Now power on the virtual machine.
+![CONNECT POWER ON BACK](https://github.com/Bukaslye/Bukaslye/assets/156098907/502a2715-b00b-47ee-a19e-3514b986596d)
