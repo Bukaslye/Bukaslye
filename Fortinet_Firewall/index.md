@@ -24,7 +24,8 @@
 ![Configured interface](https://github.com/Bukaslye/Bukaslye/assets/156098907/aa961fcf-14a8-4b0e-806e-f970fd1c778a)
 ## Check the IP that was receieved by the bridge adapter using the command 'get sys int physical"
 ![next is to get the IP of the physical interface that was given to wan](https://github.com/Bukaslye/Bukaslye/assets/156098907/0352041d-a390-4a48-9dc7-121c92033ad4)
-## Ping the Fortigate virtual machine with the IP address given from the host device to ensure cnnectivity, remeber that we set access for ping connectivity.
+## Ping the Fortigate virtual machine with the IP address given from the physical computer to ensure cnnectivity, remeber that we set access for ping connectivity.
 ![pinging the VM from my machine](https://github.com/Bukaslye/Bukaslye/assets/156098907/87e20aba-80d3-4f13-b4a8-c89188110026)
-
+## Since http and https were allowed, we should be able to access the user interface from our physical computer's web browser. Go to the physical computer, open a web browser and enter the IP address of the fortigate virtual machine configured, this should be successful, a web page with the option to enter username and password will be shown if configured properly. Now login with the configured login credentials.
+![test Https after testing ping ](https://github.com/Bukaslye/Bukaslye/assets/156098907/15c8c5b1-9a14-4338-9b40-001b0ab3e079)
 
