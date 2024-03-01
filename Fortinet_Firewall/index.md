@@ -23,3 +23,8 @@
 ## Enter the command "show system interface", this is to view the interfaces configurations.
 ![Configured interface](https://github.com/Bukaslye/Bukaslye/assets/156098907/aa961fcf-14a8-4b0e-806e-f970fd1c778a)
 ## Check the IP that was receieved by the bridge adapter using the command 'get sys int physical"
+![next is to get the IP of the physical interface that was given to wan](https://github.com/Bukaslye/Bukaslye/assets/156098907/0352041d-a390-4a48-9dc7-121c92033ad4)
+## Ping the Fortigate virtual machine with the IP address given from the host device to ensure cnnectivity, remeber that we set access for ping connectivity.
+![pinging the VM from my machine](https://github.com/Bukaslye/Bukaslye/assets/156098907/87e20aba-80d3-4f13-b4a8-c89188110026)
+
+
