@@ -20,5 +20,6 @@
 ![configuring port1 interface](https://github.com/Bukaslye/Bukaslye/assets/156098907/f70ce074-1cca-4816-8417-cc3aa771d986)
 ## Configure the LAN interface next. "edit port2" to specify the interface, configure the LAN interface statically using the command "set mode static", "set role lan" since this will the LAN interface, now set your preferred IP address for the LAN interface "set ip 'your lan network/subnet', next set allowaccess for this as well using "set allowaccess http https telnet ssh ping", "set alias internal", enter the command "show" to view and verify the configuration, "end" to exit.
 ![Configure Port 2 interface](https://github.com/Bukaslye/Bukaslye/assets/156098907/5d5a22f6-d3ea-4b98-9928-97f05616aa8e)
-
-
+## Enter the command "show system interface", this is to view the interfaces configurations.
+![Configured interface](https://github.com/Bukaslye/Bukaslye/assets/156098907/aa961fcf-14a8-4b0e-806e-f970fd1c778a)
+## Check the IP that was receieved by the bridge adapter using the command 'get sys int physical"
