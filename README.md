@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bukaslye
 
-<a href="https://www.linkedin.com/in/ebuka-oguinye/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ebukaoguinye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
